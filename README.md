@@ -1,2 +1,2 @@
-# BI-Analyst
+# Business Intelligence Analyst
 Business Intelligence Analyst Intern
